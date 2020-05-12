@@ -1,0 +1,20 @@
+.header{
+    background-color: yellow;
+}
+
+.logo{
+    width: 350px;
+   
+}
+.header_area{
+    padding: 20px;
+    
+}
+
+.main{
+    background-color: crimson;
+}
+
+.footer{
+    background-color: darkgreen;
+}
